@@ -1,6 +1,6 @@
 # test_prog
 
-Testing Programmer (Buat aplikasi)
+Testing Programmer (Max 4 hari)
 # **Note: Buat dengan laravel + livewire **
 ```
 Buatkan juga LOGIN page sebelum masuk ke homepage.
