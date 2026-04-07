@@ -6,7 +6,7 @@ Testing Programmer (Max 4 hari)
 Buatkan juga LOGIN page sebelum masuk ke homepage.
 ```
 
-1.	Buatlah halaman CRUD dengan html,css dengan framework yang biasa anda gunakan, untuk api CRUD bisa dilihat di dokumentasi (https://documenter.getpostman.com/view/18291185/2s93sXdFTV)
+1.	Buatlah halaman CRUD dengan html,css dengan framework yang biasa anda gunakan, untuk api CRUD bisa dilihat di dokumentasi (https://documenter.getpostman.com/view/1658807/2sBXirhT1S)
 2. Buat function untuk mengetahui berapa banyak kata/words yang terdapat dalam suatu variable.
 3. Buat function untuk menyisipkan satu kata/word ke dalam variable nomor 2 di atas.
 4. Buat function pola segitiga:
